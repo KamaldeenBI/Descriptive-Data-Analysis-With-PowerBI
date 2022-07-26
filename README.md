@@ -56,8 +56,7 @@ Year on Year Change in Sales
 # Results of Analysis
 I built a user friendly homepage using buttons and inserted textboxes to help stakeholders navigate through my findings seamlessly in the resultant Power BI file while trying to interact with my reports.
 
-![Screenshot (70)](https://user-images.githubusercontent.com/108130729/181110375-8caef732-f4c0-4f08-8bfe-c23ba0d3a19d.png)
-
+![Screenshot (71)](https://user-images.githubusercontent.com/108130729/181114638-2fb4bf6e-2838-447e-8e82-cc7917062e74.png)
 
 Below is my final dashboard which at first look will give my stakeholders insights of my comprehensive reports
 
