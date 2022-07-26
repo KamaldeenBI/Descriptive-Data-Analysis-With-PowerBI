@@ -1,4 +1,7 @@
 # Project Name: Descriptive-Data-Analysis-With-PowerBI
+
+![furniture-store](https://user-images.githubusercontent.com/108130729/181108393-45e9ff2d-0f77-4153-abd0-2c4acbc8a8d5.jpg)
+
 ----
 # Project Objective: Problem Statement
 An hypotetical Superstore in the U.S.A that majors in selling household and office furnitures, technology gadgets and office supplies have been facing significant but not-so-obvious revenue problems. The managers also feel as though, they are not taking full advantage of the very promising United States market.
@@ -53,7 +56,8 @@ Year on Year Change in Sales
 # Results of Analysis
 I built a user friendly homepage using buttons and inserted textboxes to help stakeholders navigate through my findings seamlessly in the resultant Power BI file while trying to interact with my reports.
 
-![Screenshot (48)](https://user-images.githubusercontent.com/108130729/180672494-9ef64f54-7ae8-4803-93b7-93572210e347.png)
+![Screenshot (70)](https://user-images.githubusercontent.com/108130729/181110375-8caef732-f4c0-4f08-8bfe-c23ba0d3a19d.png)
+
 
 Below is my final dashboard which at first look will give my stakeholders insights of my comprehensive reports
 
