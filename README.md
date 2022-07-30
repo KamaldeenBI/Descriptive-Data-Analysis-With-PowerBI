@@ -4,7 +4,7 @@
 
 ----
 # Project Objective: Problem Statement
-An hypotetical Superstore in the U.S.A that majors in selling household and office furnitures, technology gadgets and office supplies have been facing significant but not-so-obvious revenue problems. The managers also feel as though, they are not taking full advantage of the very promising United States market.
+An hypothetical Superstore in the U.S.A that majors in selling household and office furnitures, technology gadgets and office supplies have been facing significant but not-so-obvious revenue problems. The managers also feel as though, they are not taking full advantage of the very promising United States market.
 Below are the 5 business questions that need to be addressed critically,
 1. The management of Showtime superstores are concerned about the substantial figures of cost of production and carriages, they want a diagnostic of the causes.
 2. They want to know the peak sales period in the last 4 years as the minimum sales periods and the factors behind both metrics.
@@ -26,7 +26,7 @@ I created another custom column to the sales table, “Days to Ship” which wou
 
 ![powerquery](https://user-images.githubusercontent.com/108130729/180669669-b7417e5f-14ac-4e5e-9a86-5a32908d7e89.png)
 
-First thing after successfully loading the tables to Power BI was to create relationships between the FACT table and the four DIMENSIONAL tables. Power BI create recognized and created the relationships automatically. But there was one more crucial table left. 
+First thing after successfully loading the tables to Power BI was to create relationships between the FACT table and the four DIMENSIONAL tables. Power BI recognized and created the relationships automatically. But there was one more crucial table left, 
 “DATE TABLE” which would create dynamic date types for each unique transaction using DAX functions.
 
 I created the date table using two primary DAX functions primarily ADDCOLUMNS and CALENDARAUTO consisting unique columns for YEARS, QUARTER, MONTH NAME and MONTH NUMBER.
@@ -46,7 +46,7 @@ Next step in the data transformation was to create Measures that will be crucial
 •	YOY % Change in sales
 
 Total Cost wasn’t ascertained in the dataset so I had to use the Total sales and Total profit measures to calculate the total costs for the period.
-Below are screenshots of the power of DAX as it was instrumental for me in solving a very crucial project problem of ascertaining sales of same date of the previous year (Used DAX function 'SAMEPPERIODLASTYEAR') which is very important in computing and visualizing how sales changed from past year. This Measure could easily tell us what percentage did our sales rise or fall by yearly, I used 'IF' statement and 'HASONEVALUE' here.
+Below are screenshots of the power of DAX as it was instrumental for me in solving a very crucial project problem of ascertaining sales of same date of the previous year (Used DAX function 'SAMEPPERIODLASTYEAR') which is very important in computing and visualizing how sales changed from past year. This Measure could easily tell us the percentage increase or decrease in sales by year, I used the 'IF' statement and 'HASONEVALUE' here.
 
 Previous Period Sales
 ![prevpresales](https://user-images.githubusercontent.com/108130729/180670743-9f7b7d16-99e7-45a0-a175-b89c4393913e.png)
