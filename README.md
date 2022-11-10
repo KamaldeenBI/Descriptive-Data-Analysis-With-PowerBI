@@ -64,11 +64,11 @@ Below is my final dashboard which at first look will give my stakeholders insigh
 
 Sales Performance and Profitability
 
-![Screenshot (50)](https://user-images.githubusercontent.com/108130729/180672879-b9126c2a-fc1b-436b-92f8-6f0230f4f3eb.png)
+![Screenshot (167)](https://user-images.githubusercontent.com/108130729/201130859-0611db7c-8577-40df-86be-78f3268e5c28.png)
 
 Comprehensive Insights
 
-![Screenshot (51)](https://user-images.githubusercontent.com/108130729/180672911-95017a66-d523-48a7-8c80-94afe9fe01a5.png)
+![Screenshot (166)](https://user-images.githubusercontent.com/108130729/201131004-2f2eab31-aba1-442c-a8ba-1abd73daf7ba.png)
 
 Other visualizations generated to help address the business problems
 
