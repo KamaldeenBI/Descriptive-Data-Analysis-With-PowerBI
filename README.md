@@ -60,7 +60,7 @@ I built a user friendly homepage using buttons and inserted textboxes to help st
 
 Below is my final dashboard which at first look will give my stakeholders insights of my comprehensive reports
 
-![Screenshot (49)](https://user-images.githubusercontent.com/108130729/180672650-631bb2a4-c359-45d4-9e36-82cb3ad4b99c.png)
+![Screenshot (165)](https://user-images.githubusercontent.com/108130729/201121051-a9c4eb91-9cfb-4f31-bdcb-fcd7f2b3fb8c.png)
 
 Sales Performance and Profitability
 
@@ -72,16 +72,19 @@ Comprehensive Insights
 
 Other visualizations generated to help address the business problems
 
-![Screenshot (57)](https://user-images.githubusercontent.com/108130729/180672956-d555140f-acec-4c62-838b-538ad2d62a6b.png)
+![Screenshot (158)](https://user-images.githubusercontent.com/108130729/201121417-907f25db-1d01-465c-9570-69ef5c18e303.png)
 
-![Screenshot (62)](https://user-images.githubusercontent.com/108130729/180672967-152227ea-5294-4969-917a-ef123e6ab3e8.png)
+![Screenshot (159)](https://user-images.githubusercontent.com/108130729/201121433-662df099-2eb4-49dd-b238-819ea9e7e6d4.png)
 
-![Screenshot (59)](https://user-images.githubusercontent.com/108130729/180672991-2ca65003-75eb-4145-b64e-299a98fe5f55.png)
+![Screenshot (160)](https://user-images.githubusercontent.com/108130729/201121485-d96a66f9-5184-4622-8178-acf74729bbdb.png)
+
+![Screenshot (161)](https://user-images.githubusercontent.com/108130729/201121591-104c6dee-682a-4789-9df5-3a3258c1cf35.png)
+
+![Screenshot (162)](https://user-images.githubusercontent.com/108130729/201121630-dca6fe25-ba78-46d4-83ae-e874730219e5.png)
+
+![Screenshot (163)](https://user-images.githubusercontent.com/108130729/201121703-fd727aa2-062d-402b-8820-c86496b3a962.png)
 
 One Challenge was sorting months in chronological order in this line chart during visualization, What I did was to switch off concatenate labels and use sort by column functions, with the use of Month number in my Date table which was created earlier, It really came in handy.
-![Screenshot (61)](https://user-images.githubusercontent.com/108130729/180673004-2b2bffdf-777b-4339-af27-8313484cc50a.png)
-
-![Screenshot (60)](https://user-images.githubusercontent.com/108130729/180673013-c480570b-c006-401e-9472-ee260c645b44.png)
 
 # Recommendations
 
