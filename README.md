@@ -4,7 +4,7 @@
 
 ----
 # Project Objective: Problem Statement
-An hypothetical Superstore in the U.S.A that majors in selling household and office furnitures, technology gadgets and office supplies have been facing significant but not-so-obvious revenue problems. The managers also feel as though, they are not taking full advantage of the very promising United States market.
+An Superstore in the U.S.A that majors in selling household and office furnitures, technology gadgets and office supplies have been facing significant but not-so-obvious revenue problems. The managers also feel as though, they are not taking full advantage of the very promising United States market.
 Below are the 5 business questions that need to be addressed critically,
 1. The management of Showtime superstores are concerned about the substantial figures of cost of production and carriages, they want a diagnostic of the causes.
 2. They want to know the peak sales period in the last 4 years as the minimum sales periods and the factors behind both metrics.
@@ -13,7 +13,7 @@ Below are the 5 business questions that need to be addressed critically,
 5. Who are our most consistent and best customers per state?
 ----
 # Data Sourcing
-Got the dataset from a Microsoft learning platform which I registered and participated in. The program was called '30 days of learning'. The Following Data was Provided https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/tree/main/Data%20Modelling%20Dataset
+https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/tree/main/Data%20Modelling%20Dataset
 ----
 # Data Transformation
 Got the dataset in XLS format primarily. It was in 'wide data' format.
