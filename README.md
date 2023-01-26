@@ -12,9 +12,6 @@ Below are the 5 business questions that need to be addressed critically,
 4. Which States or Region are not performing up to expectations, supposedly to add to our total revenue?
 5. Who are our most consistent and best customers per state?
 ----
-# Data Sourcing
-https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/tree/main/Data%20Modelling%20Dataset
-----
 # Data Transformation
 Got the dataset in XLS format primarily. It was in 'wide data' format.
 I transformed it into a relational format such that each table can relate with one another with Excel by using Copy, Paste and 'Remove duplicates' functions. 
