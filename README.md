@@ -101,7 +101,7 @@ I suggest that there is a need to stop outsourcing carriages to shipping compani
 Going forward, The store needs to beef up staffing by employing short term employees to reduce backlog of orders as we have found out in this analysis engagement.
 February being the lowest in sales in our trend analysis probably has to do with it being a 28 days month.
 
-# I Appreciate you taking time to give my analysis a read.
+# I Appreciate you taking time to give my documentation a read.
 
 # You can connect with me on
 https://twitter.com/KamalBI_ and ktaiwobiz@gmail.com
