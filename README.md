@@ -57,29 +57,29 @@ I built a user friendly homepage using buttons and inserted textboxes to help st
 
 Below is my final dashboard which at first look will give my stakeholders insights of my comprehensive reports
 
-![Screenshot (165)](https://user-images.githubusercontent.com/108130729/201121051-a9c4eb91-9cfb-4f31-bdcb-fcd7f2b3fb8c.png)
+![Screenshot (368)](https://user-images.githubusercontent.com/108130729/230735483-de2e9c66-c34f-4291-9e66-10869c4898c0.png)
 
 Sales Performance and Profitability
 
-![Screenshot (167)](https://user-images.githubusercontent.com/108130729/201130859-0611db7c-8577-40df-86be-78f3268e5c28.png)
+![Screenshot (370)](https://user-images.githubusercontent.com/108130729/230735498-603367b8-799d-4b33-8f31-5edc580f22e5.png)
 
 Comprehensive Insights
 
-![Screenshot (166)](https://user-images.githubusercontent.com/108130729/201131004-2f2eab31-aba1-442c-a8ba-1abd73daf7ba.png)
+![Screenshot (369)](https://user-images.githubusercontent.com/108130729/230735543-736dd2f4-3c41-4b77-9905-f82f2d84b7d0.png)
 
 Other visualizations generated to help address the business problems
 
-![Screenshot (158)](https://user-images.githubusercontent.com/108130729/201121417-907f25db-1d01-465c-9570-69ef5c18e303.png)
+![Screenshot (360)](https://user-images.githubusercontent.com/108130729/230735638-1eace589-a8e3-4a2f-8887-e61a4ff42136.png)
 
-![Screenshot (159)](https://user-images.githubusercontent.com/108130729/201121433-662df099-2eb4-49dd-b238-819ea9e7e6d4.png)
+![Screenshot (361)](https://user-images.githubusercontent.com/108130729/230735648-3aad04ba-8b81-4759-a948-8ee2b9aa9005.png)
 
-![Screenshot (160)](https://user-images.githubusercontent.com/108130729/201121485-d96a66f9-5184-4622-8178-acf74729bbdb.png)
+![Screenshot (362)](https://user-images.githubusercontent.com/108130729/230735660-fd39793c-26bf-4459-8704-868e81c1f5e9.png)
 
-![Screenshot (161)](https://user-images.githubusercontent.com/108130729/201121591-104c6dee-682a-4789-9df5-3a3258c1cf35.png)
+![Screenshot (364)](https://user-images.githubusercontent.com/108130729/230735670-17ebe576-61ff-440d-9310-83ab2fbb2d19.png)
 
-![Screenshot (162)](https://user-images.githubusercontent.com/108130729/201121630-dca6fe25-ba78-46d4-83ae-e874730219e5.png)
+![Screenshot (366)](https://user-images.githubusercontent.com/108130729/230735675-adb05516-8b61-43bd-998f-d69f848f97cf.png)
 
-![Screenshot (163)](https://user-images.githubusercontent.com/108130729/201121703-fd727aa2-062d-402b-8820-c86496b3a962.png)
+![Screenshot (367)](https://user-images.githubusercontent.com/108130729/230735679-fb9ca8e7-4f74-4b76-81f4-773ec5d03761.png)
 
 One Challenge was sorting months in chronological order in this line chart during visualization, What I did was to switch off concatenate labels and use sort by column functions, with the use of Month number in my Date table which was created earlier, It really came in handy.
 
